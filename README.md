@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+# Agatadia
+This is new version of Agatadia, local wiki site. The project is powered by MediaWiki under public domain licence.  
+
+
 # MediaWiki
 
 MediaWiki is a free and open-source wiki software package written in PHP. It
@@ -33,7 +37,4 @@ file lists technical contributors to the project. The COPYING file explains
 MediaWiki's copyright and license (GNU General Public License, version 2 or
 later). Many thanks to the Wikimedia community for testing and suggestions.
 =======
-# Agatadia
 
-this is new version of Agatadia.
->>>>>>> origin/main
