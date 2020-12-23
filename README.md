@@ -2,6 +2,9 @@
 # Agatadia
 This is new version of Agatadia, local wiki site. The project is powered by MediaWiki under public domain licence.  
 
+## Goto Agatadia
+https://agatadia.com 
+
 
 # MediaWiki
 
